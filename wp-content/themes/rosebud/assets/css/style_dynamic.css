@@ -1,0 +1,39 @@
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/assets/custom-styles/general-custom-styles.php rosebud_mikado_design_styles function */
+body { font-family: Rubik;}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/assets/custom-styles/general-custom-styles.php rosebud_mikado_h1_styles function */
+h1 { font-family: Rozha One;font-size: 30px;letter-spacing: 1.5px;}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/assets/custom-styles/general-custom-styles.php rosebud_mikado_h2_styles function */
+h2 { color: #000000;font-family: Rozha One;font-size: 38px;letter-spacing: 1px;}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/assets/custom-styles/general-custom-styles.php rosebud_mikado_h3_styles function */
+h3 { color: #000000;font-family: Rozha One;font-size: 26px;line-height: 32px;letter-spacing: 1.3px;}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/assets/custom-styles/general-custom-styles.php rosebud_mikado_h5_styles function */
+h5 { color: #000000;font-family: Rozha One;font-size: 24px;letter-spacing: 1.2px;}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/assets/custom-styles/general-custom-styles.php rosebud_mikado_text_styles function */
+p { color: #000000;font-family: Rubik;}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/assets/custom-styles/general-custom-styles.php rosebud_mikado_link_styles function */
+a, p a { color: #000000;}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/framework/modules/header/types/header-minimal/admin/custom-styles/full-screen-menu-custom-styles.php rosebud_mikado_fullscreen_menu_general_styles function */
+nav.mkdf-fullscreen-menu ul li, .mkdf-fullscreen-above-menu-widget-holder, .mkdf-fullscreen-below-menu-widget-holder { text-align: center;}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php rosebud_mikado_header_top_bar_styles function */
+.mkdf-header-box .mkdf-top-bar-background { height: 88px;}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php rosebud_mikado_header_top_bar_styles function */
+.mkdf-header-box .mkdf-top-bar-background { background-color: rgba(214, 225, 219, 1);}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php rosebud_mikado_header_top_bar_styles function */
+.mkdf-top-bar { background-color: rgba(214, 225, 219, 1);}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/framework/modules/header/admin/custom-styles/header-custom-styles.php rosebud_mikado_header_logo_area_styles function */
+.mkdf-page-header .mkdf-logo-area { height: 30px !important;}
+
+/* generated in /var/www/puravidaflores.cl/wp-content/themes/rosebud/framework/modules/header/admin/custom-styles/header-custom-styles.php rosebud_mikado_header_logo_area_styles function */
+.mkdf-header-centered .mkdf-logo-area .mkdf-logo-wrapper { padding: ;}
+
